@@ -1,6 +1,7 @@
 # ObjectDetection
 
 imports: OpenCV, NumPy
+
 models: [MobileNet-SSD](https://github.com/chuanqi305/MobileNet-SSD)
 
 This machine learning Object Detection program is trained on a caffe dataset and deployed on a prototxt
